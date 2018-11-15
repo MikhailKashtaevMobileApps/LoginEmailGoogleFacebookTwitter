@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.MainActivity"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/etEmail"
+        android:hint="Email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <EditText
+        android:id="@+id/etPass"
+        android:hint="Password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:onClick="authEmailPassLogin"
+        android:text="Login Email and Password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button
+        android:onClick="authEmailPassSignUp"
+        android:text="Sign Up Email and Password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:onClick="authGoogleLogin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Google Login"/>
+
+    <Button
+        android:onClick="authFacebookLogin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Facebook Login"/>
+
+    <Button
+        android:onClick="authTwitterLogin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Twitter Login"/>
+
+    <Button
+        android:onClick="authSignOut"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sign Out"/>
+
+    <Button
+        android:onClick="authCheckStatus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Check User"/>
+
+</LinearLayout>

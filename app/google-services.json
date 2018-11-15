@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "681590149120",
+    "firebase_url": "https://fir-android-c3cc0.firebaseio.com",
+    "project_id": "fir-android-c3cc0",
+    "storage_bucket": "fir-android-c3cc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681590149120:android:07be658c2a54dae7",
+        "android_client_info": {
+          "package_name": "com.example.mike.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681590149120-s2c9pi2eufkub4lt5nlb0sddqn7sqtpf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mike.firebase",
+            "certificate_hash": "ee5c950255f788e0e2418ce9d648b4bf3d9aa32c"
+          }
+        },
+        {
+          "client_id": "681590149120-4u1c4r2inc22pe13a2caj7g3qrfolbcj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABCy7Z9Mx2xeUbAuHyoBT6ODd0dUs1wiM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681590149120-4u1c4r2inc22pe13a2caj7g3qrfolbcj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681590149120:android:c40b1de37d773274",
+        "android_client_info": {
+          "package_name": "com.example.mike.loginemailgooglefacebooktwiitter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681590149120-lklojg3sd21i88t81hl0clm3umcqs3s6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mike.loginemailgooglefacebooktwiitter",
+            "certificate_hash": "ee5c950255f788e0e2418ce9d648b4bf3d9aa32c"
+          }
+        },
+        {
+          "client_id": "681590149120-4u1c4r2inc22pe13a2caj7g3qrfolbcj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABCy7Z9Mx2xeUbAuHyoBT6ODd0dUs1wiM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681590149120-4u1c4r2inc22pe13a2caj7g3qrfolbcj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
